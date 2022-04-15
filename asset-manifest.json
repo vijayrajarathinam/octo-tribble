@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/octo-tribble/static/css/main.65166117.css",
+    "main.js": "/octo-tribble/static/js/main.245a6df0.js",
+    "static/js/787.f3ec753e.chunk.js": "/octo-tribble/static/js/787.f3ec753e.chunk.js",
+    "index.html": "/octo-tribble/index.html",
+    "main.65166117.css.map": "/octo-tribble/static/css/main.65166117.css.map",
+    "main.245a6df0.js.map": "/octo-tribble/static/js/main.245a6df0.js.map",
+    "787.f3ec753e.chunk.js.map": "/octo-tribble/static/js/787.f3ec753e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65166117.css",
+    "static/js/main.245a6df0.js"
+  ]
+}
